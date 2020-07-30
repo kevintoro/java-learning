@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Traductor()
+comment1.params=pal\ trad\ idioma
+comment1.target=void\ agregarTraduccion(java.lang.String,\ java.lang.String,\ int)
+comment2.params=pal\ idioma
+comment2.target=Traduccion\ buscarTraduccionDe(java.lang.String,\ int)
+comment3.params=idioma
+comment3.target=int\ darTamanioDirectorio(int)
+comment4.params=idiomaTraduccion
+comment4.target=java.util.ArrayList\ obtenerTraducciones(int)
+numComments=5

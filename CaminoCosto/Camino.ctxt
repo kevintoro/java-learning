@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Camino
+comment1.params=
+comment1.target=Camino()
+comment2.params=from\ to\ costo
+comment2.target=void\ addLink(Nodo,\ Nodo,\ int)
+comment3.params=ac
+comment3.target=Nodo\ menosCostoHastaFin(Nodo)
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Interfaz()
+comment1.params=pal\ trad\ idioma
+comment1.target=void\ agregarPalabra(java.lang.String,\ java.lang.String,\ int)
+comment2.params=idioma
+comment2.target=int\ darTamanio(int)
+comment3.params=pal\ idioma
+comment3.target=Traduccion\ buscarTraduccionDe(java.lang.String,\ int)
+comment4.params=
+comment4.target=void\ actualizarContadores()
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=cll
+comment0.target=PanelConsulta(Interfaz)
+comment1.params=
+comment1.target=void\ limpiar()
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=3

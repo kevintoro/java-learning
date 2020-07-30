@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=VentaVehiculos
+comment1.params=
+comment1.target=VentaVehiculos()
+comment2.params=
+comment2.target=java.util.ArrayList\ getLista()
+comment3.params=vehiculo
+comment3.target=void\ venderVehiculo(Vehiculo)
+comment4.params=vehiculo
+comment4.target=void\ agregarVehiculo(Vehiculo)
+numComments=5

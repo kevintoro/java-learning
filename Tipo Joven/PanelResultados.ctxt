@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=cll
+comment0.target=PanelResultados(Interfaz)
+comment1.params=event
+comment1.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=2

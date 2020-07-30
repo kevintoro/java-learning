@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Archivo
+comment1.params=
+comment1.target=Archivo()
+comment2.params=cmpnt
+comment2.target=java.lang.String\ leerGrafico(java.awt.Component)
+numComments=3

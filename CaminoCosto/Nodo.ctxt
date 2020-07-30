@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Nodo
+comment1.params=data
+comment1.target=Nodo(java.lang.String)
+comment2.params=to\ cost
+comment2.target=void\ linkTo(Nodo,\ int)
+comment3.params=
+comment3.target=Arista\ aristaMenosCosto()
+numComments=4

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Arista
+comment1.params=cost\ to
+comment1.target=Arista(int,\ Nodo)
+comment2.params=
+comment2.target=Nodo\ getTo()
+comment3.params=
+comment3.target=int\ getCost()
+numComments=4

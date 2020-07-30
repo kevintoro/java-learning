@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Coche
+comment1.params=matricula\ due\u00F1o
+comment1.target=Coche(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.util.LinkedList\ getReparaciones()
+comment3.params=
+comment3.target=java.lang.String\ getMatricula()
+comment4.params=
+comment4.target=java.lang.String\ getDue\u00F1o()
+comment5.params=matricula
+comment5.target=void\ setMatricula(java.lang.String)
+comment6.params=due\u00F1o
+comment6.target=void\ setDue\u00F1o(java.lang.String)
+comment7.params=reparacion
+comment7.target=void\ addReparacion(Reparacion)
+comment8.params=
+comment8.target=Reparacion\ getUltimaReparacion()
+comment9.params=palabraClave
+comment9.target=java.util.ArrayList\ getReparacionPalabra(java.lang.String)
+numComments=10

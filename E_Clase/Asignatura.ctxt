@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=nombre\ codigo\ credito
+comment0.target=Asignatura(java.lang.String,\ java.lang.String,\ int)
+comment1.params=
+comment1.target=java.lang.String\ getnombre()
+comment2.params=newnombre
+comment2.target=void\ setsombre(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getcodigo()
+comment4.params=newcodigo
+comment4.target=void\ setcodigo(java.lang.String)
+comment5.params=
+comment5.target=int\ getcredito()
+comment6.params=credito
+comment6.target=void\ setcreditos(int)
+numComments=7

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=nombre
+comment0.target=Estudiante(java.lang.String)
+comment1.params=
+comment1.target=void\ AgregarAsignaturas()
+comment2.params=
+comment2.target=void\ perdidas()
+comment3.params=
+comment3.target=void\ promedio()
+comment4.params=
+comment4.target=void\ mayor()
+numComments=5

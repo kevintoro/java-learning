@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Banda
+comment1.params=nombre\ numFans\ numCancion\ costo
+comment1.target=Banda(java.lang.String,\ long,\ int,\ long)
+comment2.params=
+comment2.target=java.lang.String\ getNombre()
+comment3.params=
+comment3.target=long\ getNumFans()
+comment4.params=
+comment4.target=int\ getNumCanciones()
+comment5.params=
+comment5.target=long\ getCosto()
+numComments=6

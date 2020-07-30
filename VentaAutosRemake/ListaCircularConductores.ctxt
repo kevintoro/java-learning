@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=ListaCircularConductores
+comment1.params=
+comment1.target=ListaCircularConductores()
+comment2.params=nConductor
+comment2.target=void\ agregar(java.lang.String)
+comment3.params=
+comment3.target=Nodo\ getActual()
+comment4.params=
+comment4.target=Nodo\ siguiente()
+comment5.params=
+comment5.target=Nodo\ anterior()
+comment6.params=nombre
+comment6.target=void\ eliminar(java.lang.String)
+comment7.params=
+comment7.target=void\ mostrar()
+comment8.params=args
+comment8.target=void\ main(java.lang.String[])
+numComments=9

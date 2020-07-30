@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Ventana
+comment1.params=
+comment1.target=Ventana()
+comment2.params=evento
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment2.text=\r\n\r\n\ @param\ evento\r\n
+comment3.params=
+comment3.target=java.awt.Image\ getIconImage()
+comment3.text=\r\n\r\n\ @return\r\n
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Matrices
+comment1.params=
+comment1.target=Matrices()
+comment2.params=
+comment2.target=void\ llenarMatriz()
+comment3.params=
+comment3.target=void\ imprimirMatriz()
+comment4.params=fila\ columna
+comment4.target=void\ modificarNumero(int,\ int)
+numComments=5

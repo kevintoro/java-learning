@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Garage
+comment1.params=
+comment1.target=Garage()
+comment2.params=
+comment2.target=java.util.LinkedList\ getCoches()
+comment3.params=coche
+comment3.target=void\ addCoche(Coche)
+comment4.params=matricula
+comment4.target=Coche\ getCoche(java.lang.String)
+comment5.params=matricula
+comment5.target=java.lang.Boolean\ buscarCoche(java.lang.String)
+comment6.params=coche
+comment6.target=void\ darSalida(Coche)
+numComments=7

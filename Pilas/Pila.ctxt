@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Pila
+comment1.params=
+comment1.target=Pila()
+comment2.params=dato
+comment2.target=void\ apilar(int)
+comment3.params=
+comment3.target=int\ desapilar()
+comment4.params=dato
+comment4.target=void\ desapilarDato(int)
+comment5.params=
+comment5.target=void\ masPeque\u00F1o()
+comment6.params=
+comment6.target=void\ mostrar()
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8

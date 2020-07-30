@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=pal\ trad
+comment0.target=Traduccion(java.lang.String,\ java.lang.String)
+comment1.params=
+comment1.target=java.lang.String\ darPalabra()
+comment2.params=
+comment2.target=java.lang.String\ darTraduccion()
+comment3.params=nueva
+comment3.target=void\ cambiarTraduccion(java.lang.String)
+numComments=4

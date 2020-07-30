@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=cll
+comment0.target=PanelResultados(Interfaz)
+comment1.params=prom
+comment1.target=void\ actualizarPromedio(double)
+comment2.params=x
+comment2.target=void\ actualizarCantEncuestados(int)
+comment3.params=
+comment3.target=void\ limpiarPR()
+comment4.params=event
+comment4.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=5

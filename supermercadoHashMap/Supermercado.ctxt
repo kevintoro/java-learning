@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Supermercado
+comment1.params=
+comment1.target=Supermercado()
+comment2.params=product
+comment2.target=void\ agregarProducto(Producto)
+comment2.text=\r\n\ Busca\ si\ el\ producto\ se\ encuentra\ agregado\r\n\ a\ la\ lista,\ y\ si\ no\ se\ encuentra,\ entonces\r\n\ lo\ agrega,\ de\ ser\ contrario,\ muestra\ un\ mensaje\ \r\n\ de\ error\r\n\ @param\ product\ Nuevo\ a\ Agregar\r\n
+comment3.params=identidicador
+comment3.target=java.lang.String\ localizarProducto(java.lang.String)
+comment3.text=\r\n\ Busca\ el\ tipo\ del\ producto\ en\ la\ lista\r\n\ @param\ identidicador\ del\ producto\r\n\ @return\ Tipo\ de\ producto\r\n
+comment4.params=nombre\ marca
+comment4.target=java.lang.String\ localizarDadoNombreyMarca(java.lang.String,\ java.lang.String)
+comment4.text=\r\n\ Busca\ un\ producto\ en\ la\ lista\r\n\ @param\ nombre\ del\ producto\ a\ buscar\r\n\ @param\ marca\ del\ producto\ a\ buscar\r\n\ @return\ Tipo\ de\ producto,\ o\ null\ si\ no\ se\ consigue\r\n
+comment5.params=tipoProducto
+comment5.target=Producto\ menorDadoTipoProducto(java.lang.String)
+comment5.text=\r\n\ Busca\ producto\ con\ menor\ cantidad,\ seg\u00FAn\ los\r\n\ par\u00E1metros\ dados\ por\ el\ usuario\r\n\ @param\ tipoProducto\r\n\ @return\ el\ producto\ de\ dicho\ tipo\ con\ menor\ cantidad\ en\ estante\r\n
+comment6.params=
+comment6.target=int\ getCantidadProductosTotal()
+comment6.text=\r\n\ @return\ Cantidad\ de\ productos\ agregados\ a\ la\ lista\r\n
+comment7.params=nombre\ cantidad
+comment7.target=void\ vender(java.lang.String,\ int)
+comment7.text=\r\n\ vende\ una\ cantidad\ determinada\ de\ producto\r\n\ @param\ nombre\ del\ Producto\r\n\ @param\ cantidad\ a\ vender\r\n
+numComments=8

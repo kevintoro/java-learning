@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Empleado
+comment1.params=nombre\ identificacion\ a\u00F1oIngreso
+comment1.target=Empleado(java.lang.String,\ java.lang.String,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getNombre()
+comment3.params=
+comment3.target=java.lang.String\ getIdentificacion()
+comment4.params=
+comment4.target=int\ calcularDiasVacaciones()
+numComments=5

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=NodoB
+comment1.params=Elem
+comment1.target=NodoB(int)
+comment2.params=
+comment2.target=NodoB()
+comment3.params=Elem
+comment3.target=void\ insertar(int)
+numComments=4

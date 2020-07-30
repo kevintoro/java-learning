@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Sucursal
+comment1.params=nombre\ direccion
+comment1.target=Sucursal(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getNombre()
+comment3.params=
+comment3.target=java.lang.String\ getDireccion()
+comment4.params=
+comment4.target=java.util.ArrayList\ getLineaProducto()
+comment5.params=producto
+comment5.target=void\ AgregarProducto(Producto)
+comment6.params=
+comment6.target=Producto\ lineaMasAntigua()
+comment7.params=producto
+comment7.target=void\ eliminarProducto(java.lang.String)
+comment8.params=
+comment8.target=java.lang.String\ listar()
+comment9.params=precioMenor\ precioMayor
+comment9.target=int\ eliminarRangoPrecio(double,\ double)
+numComments=10

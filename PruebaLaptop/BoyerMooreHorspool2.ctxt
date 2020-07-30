@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=BoyerMooreHorspool2
+comment1.params=p\ size
+comment1.target=int[]\ preBoyerMooreHorspool(char[],\ int)
+comment2.params=patron
+comment2.target=int\ boyerMooreHorspool(java.lang.String)
+numComments=3

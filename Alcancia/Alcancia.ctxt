@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Alcancia
+comment1.params=
+comment1.target=Alcancia()
+comment2.params=moneda
+comment2.target=void\ AgregarMoneda(Moneda)
+comment3.params=
+comment3.target=int\ getTotal()
+comment4.params=
+comment4.target=void\ romperAlcancia()
+comment5.params=
+comment5.target=int\ getVeinte()
+comment6.params=
+comment6.target=int\ getCincuenta()
+comment7.params=
+comment7.target=int\ getCien()
+comment8.params=
+comment8.target=int\ getDoscientos()
+comment9.params=
+comment9.target=int\ getQuinientos()
+numComments=10

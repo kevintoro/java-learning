@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Escenario
+comment1.params=presupuesto\ patrocinador
+comment1.target=Escenario(int,\ java.lang.String)
+comment10.params=
+comment10.target=void\ ordenarPorFans()
+comment2.params=
+comment2.target=int\ getPresupuesto()
+comment3.params=
+comment3.target=java.lang.String\ getPatrocinador()
+comment4.params=patrocinador
+comment4.target=void\ setPatrocinador(java.lang.String)
+comment5.params=nBanda
+comment5.target=void\ agregBanda(Banda)
+comment6.params=
+comment6.target=void\ getBandas()
+comment7.params=elimBanda
+comment7.target=void\ eliminarBanda(Banda)
+comment8.params=nombreBanda
+comment8.target=Banda\ buscarNombre(java.lang.String)
+comment9.params=
+comment9.target=void\ ordenarPorNombre()
+numComments=11

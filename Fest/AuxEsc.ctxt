@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=AuxEsc
+comment1.params=
+comment1.target=AuxEsc()
+comment2.params=value\ patrocinador
+comment2.target=void\ setCampos(java.lang.String,\ java.lang.String)
+comment3.params=
+comment3.target=Escenario\ getEscenario()
+comment4.params=order
+comment4.target=void\ actPrim(boolean)
+comment5.params=order
+comment5.target=void\ actSec(boolean)
+comment6.params=e
+comment6.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=7

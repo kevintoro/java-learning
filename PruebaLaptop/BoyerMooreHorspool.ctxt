@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=BoyerMooreHorspool
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Exercices\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=texto\ patron
+comment1.target=int\ boyerMooreHorspool(java.lang.String,\ java.lang.String)
+comment2.params=c\ text
+comment2.target=boolean\ isInArray(char,\ char[])
+comment3.params=indexText\ text\ pattern
+comment3.target=boolean\ compare(int,\ char[],\ char[])
+numComments=4

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Cliente
+comment1.params=numeroCuenta\ nombre\ identificacion\ saldoInicial
+comment1.target=Cliente(java.lang.String,\ java.lang.String,\ java.lang.String,\ double)
+comment2.params=
+comment2.target=java.lang.String\ getNombre()
+comment3.params=
+comment3.target=java.lang.String\ getNumeroCuenta()
+comment4.params=
+comment4.target=java.lang.String\ getIdentificacion()
+comment5.params=
+comment5.target=double\ getSaldoActual()
+comment6.params=cantidad
+comment6.target=void\ consignar(double)
+comment7.params=cantidad
+comment7.target=void\ retirar(double)
+numComments=8

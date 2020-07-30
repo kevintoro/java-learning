@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=cll
+comment0.target=PanelOpinion(Interfaz)
+comment1.params=
+comment1.target=double\ getPromedio()
+comment2.params=
+comment2.target=int\ getCantidadEncuestados()
+comment3.params=
+comment3.target=void\ limpiarPO()
+comment4.params=estadoC\ rangoEd
+comment4.target=void\ consulta(java.lang.String,\ int)
+comment5.params=event
+comment5.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=6

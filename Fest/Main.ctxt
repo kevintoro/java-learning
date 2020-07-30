@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Main
+comment1.params=
+comment1.target=Main()
+comment2.params=op
+comment2.target=void\ aggEscenario(int)
+comment3.params=op
+comment3.target=Escenario\ getEscenario(int)
+comment4.params=op
+comment4.target=void\ delEscenario(int)
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6
